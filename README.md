@@ -36,9 +36,9 @@ Table of Contents
 ## 1. Machine Learning
 
 <details>
-	<summary>Applied Data Science with Python</summary>
+	<summary>University of Michigan</summary>
 
-  #### `1.` University of Michigan [link1](https://github.com/Sardiirfan27/Data-Science-with-Python-Michigan-University)
+  #### `1.` Applied Data Science with Python[link1](https://github.com/Sardiirfan27/Data-Science-with-Python-Michigan-University)
 
 </details>
 
