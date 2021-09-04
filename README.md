@@ -9,28 +9,18 @@ Table of Contents
 <details>
 	<summary>Python</summary>
 
-  #### `1.` [Basic Programming](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/Python-Data-Analysis-Tracks/README.md) Tracks `17 Entities`
-  #### `2.` [Probability and Statistics](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/Python-Data-Analysis-Tracks/README.md) Tracks `14 Entities`
-  #### `3.` [Data Preprocessing](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/Python-Data-Analysis-Tracks/README.md) Tracks `15 Entities`
-  #### `4.` [Data Visualization](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/Python-Data-Analysis-Tracks/README.md) Tracks `8 Entities`
-  #### `5.` [Data Analysis](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/Python-Data-Analysis-Tracks/README.md) Tracks `17 Entities`
-
-  **SKILLS YOU WILL GAIN:**<br>
-  `object-oriented programming`, `databases`, `mongodb`, `data science toolbox`, `command line automation`, `aws boto`, `unit testing for data science`, `analyzing marketing campaigns`, `analyzing police activity`, `analyzing social media data`, `arima models`, `customer segmentation`, `market basket analysis`, `marketing analytics predicting customer churn`, `working geospatial data`, `supply chain analytics`, `analyzing us census data`, `python for spreadsheet users`, `exploratory data analysis`, `probability`, `statistics`, `linear modeling`, `network analysis`, `generalized linear models`, `practicing statistics interview questions`, `experimental design`, `customer analytics a/b testing`, `time series analysis`, `importing data`, `cleaning data`, `web scraping`, `data manipulation`, `dealing missing data`, `joining data`, `manipulating time series data`, `working dates times`, `pandas foundations`, `manipulating dataframes`, `merging dataframes`, `pandas joins for spreadsheet users`, `data visualization`, `matplotlib`, `seaborn`, `bokeh`, `geospatial data`, `time series data`, `software engineering for data scientists`, `parallel programming dask`, `portfolio analysis`, `portfolio risk management`, `importing managing financial data`, `quantitative risk management`, `financial forecasting`
+  #### `1.` Complete Python 3. [link1](https://github.com/Sardiirfan27/Complete-Python-3-Bootcamp?organization=Sardiirfan27&organization=Sardiirfan27),[VIdeo1](https://youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB), [Video2](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) 
+  #### `2.` [ 100 Days of Code - The Complete Python Pro Bootcamp for 2021- Udemy](https://github.com/Sardiirfan27/100-days-of-python)
+  #### `3.` Python and Django Full Stack Web Developer. [link1](https://github.com/nesreensada/Python-and-Django-Full-Stack-Web-Developer-Bootcamp), [link2](https://github.com/miguelrochajr/DjangoFullStackBootcamp_Course), [Video1](https://youtu.be/Qr4QMBUPxWo), [Video2](https://youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+  #### `4.` Python and Flask Bootcamp Create Websites using Flask. [link1](https://github.com/jasonhbegleiter/udemy-flask-python-bootcamp), [link2](https://github.com/SaintClever/Python-and-Flask-Bootcamp-Create-Websites-using-Flask-), [Video1](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH),[video2](https://youtu.be/Qr4QMBUPxWo)
 
 </details>
 
 <details>
 	<summary>C++</summary>
 
-  #### `1.` [Basic Programming](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/Python-Data-Analysis-Tracks/README.md) Tracks `17 Entities`
-  #### `2.` [Probability and Statistics](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/Python-Data-Analysis-Tracks/README.md) Tracks `14 Entities`
-  #### `3.` [Data Preprocessing](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/Python-Data-Analysis-Tracks/README.md) Tracks `15 Entities`
-  #### `4.` [Data Visualization](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/Python-Data-Analysis-Tracks/README.md) Tracks `8 Entities`
-  #### `5.` [Data Analysis](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/Python-Data-Analysis-Tracks/README.md) Tracks `17 Entities`
-
-  **SKILLS YOU WILL GAIN:**<br>
-  `object-oriented programming`, `databases`, `mongodb`, `data science toolbox`, `command line automation`, `aws boto`, `unit testing for data science`, `analyzing marketing campaigns`, `analyzing police activity`, `analyzing social media data`, `arima models`, `customer segmentation`, `market basket analysis`, `marketing analytics predicting customer churn`, `working geospatial data`, `supply chain analytics`, `analyzing us census data`, `python for spreadsheet users`, `exploratory data analysis`, `probability`, `statistics`, `linear modeling`, `network analysis`, `generalized linear models`, `practicing statistics interview questions`, `experimental design`, `customer analytics a/b testing`, `time series analysis`, `importing data`, `cleaning data`, `web scraping`, `data manipulation`, `dealing missing data`, `joining data`, `manipulating time series data`, `working dates times`, `pandas foundations`, `manipulating dataframes`, `merging dataframes`, `pandas joins for spreadsheet users`, `data visualization`, `matplotlib`, `seaborn`, `bokeh`, `geospatial data`, `time series data`, `software engineering for data scientists`, `parallel programming dask`, `portfolio analysis`, `portfolio risk management`, `importing managing financial data`, `quantitative risk management`, `financial forecasting`
+  #### `1.` C++ Bootcamp & tutorial. [link1](https://github.com/Sardiirfan27/data-structures-algorithms-level-up-bootcamp), [Video1](https://www.youtube.com/watch?v=vLnPwxZdW4Y), [Video2 Indonesia](https://youtube.com/playlist?list=PLZS-MHyEIRo4Ze0bbGB1WKBSNMPzi-eWI)
+ 
 
 </details>
 
