@@ -1,4 +1,4 @@
-# Complete-AI-ML-DataScience
+# Complete AI, ML & DataScience, Computer Vision
 
 Complete Learning Materials About AI, Machine Learning, Deep Learning, Data Science  &amp; Web Development
 
