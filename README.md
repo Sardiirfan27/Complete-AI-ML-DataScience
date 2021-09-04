@@ -24,4 +24,12 @@ Table of Contents
 
 </details>
 
+## 1. Statistics & Probability
+
+<details>
+	<summary>Python</summary>
+
+  #### `1.` UCSanDiegoX [link1](https://github.com/Sardiirfan27/UCSanDiegoX-Data-Science/tree/master/Prob-and-Stats), [link2](https://github.com/VSerpak/DSE210x-Statistics-and-Probability-in-Data-Science-using-Python), [link3](https://github.com/kartikdube/Probability-and-Statistics-in-Data-Science-Using-Python)
+
+</details>
 
