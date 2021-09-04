@@ -45,25 +45,16 @@ Table of Contents
   #### `5.` [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python), [Audit](https://www.coursera.org/learn/python-text-mining/home/welcome)
   #### `6.` [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis?specialization=data-science-python), [Audit](https://www.coursera.org/learn/python-social-network-analysis/home/welcome)
 	
-	
 </details>
 
-
-## 1. Machine Learning
-
-<details>
-	<summary>University of Michigan</summary>
-
-  #### `1.` Applied Data Science with Python[link1](https://github.com/Sardiirfan27/Data-Science-with-Python-Michigan-University)
-
-</details>
 <details>
 	<summary>IBM Data Science Professional</summary>
 
   #### `1.` [link1](https://github.com/Shekhar-rv/Python)
-	
 
 </details>
+
+## 1. Machine Learning
 
 <details>
 	<summary>Andrew Ng, Stanford University</summary>
