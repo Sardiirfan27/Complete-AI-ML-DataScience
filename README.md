@@ -4,8 +4,7 @@ Complete Learning Materials About AI, Machine Learning, Deep Learning &amp; Data
 
 Table of Contents
 -----------------
-## [`Python Data Analysis`](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/Python-Data-Analysis-Tracks/README.md) Tracks
-Python Data Analysis Tracks road map for computer science students, which including the following main topics:
+## Programming
 
 <details>
 	<summary>Python Data Analysis Tracks (main topics)</summary>
