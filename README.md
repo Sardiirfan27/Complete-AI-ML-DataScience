@@ -2,12 +2,12 @@
 
 Complete Learning Materials About AI, Machine Learning, Deep Learning &amp; Data Science
 
-# Table of Contents
+Table of Contents
 -----------------
-##  Programming
+## 1. Programming
 
 <details>
-	<summary>Python Data Analysis Tracks (main topics)</summary>
+	<summary>Python</summary>
 
   #### `1.` [Basic Programming](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/Python-Data-Analysis-Tracks/README.md) Tracks `17 Entities`
   #### `2.` [Probability and Statistics](https://github.com/cs-MohamedAyman/DataCamp-Tracks/blob/master/Python-Data-Analysis-Tracks/README.md) Tracks `14 Entities`
