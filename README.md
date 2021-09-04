@@ -66,7 +66,7 @@ Table of Contents
 </details>
 
 <details>
-	<summary>Andrew Ng, DeepLearning.AI & Stanford University</summary>
+	<summary>Andrew Ng, Stanford University</summary>
 
   #### `1.` [link1](https://github.com/JWarmenhoven/Coursera-Machine-Learning)
 
