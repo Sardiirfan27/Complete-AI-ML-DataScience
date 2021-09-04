@@ -2,9 +2,9 @@
 
 Complete Learning Materials About AI, Machine Learning, Deep Learning &amp; Data Science
 
-Table of Contents
+# Table of Contents
 -----------------
-## Programming
+##  Programming
 
 <details>
 	<summary>Python Data Analysis Tracks (main topics)</summary>
