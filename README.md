@@ -50,7 +50,18 @@ Table of Contents
 <details>
 	<summary>IBM Data Science Professional</summary>
 
-  #### `1.` [link1](https://github.com/Shekhar-rv/Python)
+  #### `1.` [code](https://github.com/Shekhar-rv/Python)
+  #### `2.` [What is Data Science?](https://www.coursera.org/learn/what-is-datascience/home/welcome)
+  #### `3.` [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science/home/welcome)
+  #### `4.` [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology/home/welcome)
+  #### `5.` [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome)
+  #### `6.` [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science/home/welcome)
+  #### `7.` [Welcome to SQL for Data Science](https://www.coursera.org/learn/sql-data-science/home/welcome)
+  #### `8.` [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python/home/welcome)
+  #### `9.` [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization/home/welcome)
+  #### `10.` [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python/home/welcome)
+  #### `11.` [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone/home/welcome)
+	
 
 </details>
 
