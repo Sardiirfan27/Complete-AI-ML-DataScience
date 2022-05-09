@@ -77,10 +77,10 @@ Table of Contents
 ## 1. Learning Path
 
 <details>
-	<summary>Data Analyst ENTRY LEVEL</summary>
+	<summary>Data Science Learning Path</summary>
 
-  #### `1.` [Data Science Math Skills by Duke University](https://www.coursera.org/learn/datasciencemathskills/resources/6C6Jc)
-  #### `2.` [Data Science Math Skills by Duke University](https://www.coursera.org/learn/datasciencemathskills/resources/6C6Jc)
+  #### `1.` [Data Science LP- Coursera](https://www.coursera.org/learning-paths/data-science)
+  #### `2.` [Data Science Math Skills by Duke University]
 	
 
 </details>
